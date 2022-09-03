@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": "Akkas",
+    "contact": "akkas@gmail.com",
+    "adress": "china",
+    "photoUrl": "https://pbs.twimg.com/profile_images/653700295395016708/WjGTnKGQ_400x400.png"
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": "nafiz",
+    "contact": "nafu@gmail.com",
+    "adress": "Cumilla",
+    "photoUrl": "https://stickerly.pstatic.net/sticker_pack/PQEbA06NLcQ7reKUeFtK0g/9I87N5/2/08cebe44-befc-4883-b0a8-913d0225db72.png"
+  },
+  {
+    "id": 3,
+    "gender": "female",
+    "name": "Simi",
+    "contact": "simi@gmail.cpm",
+    "adress": "Dhaka",
+    "photoUrl": "https://media.moddb.com/cache/images/members/5/4550/4549205/thumb_620x2000/duck.jpg"
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": "Rimi",
+    "contact": "imi@gmail.com",
+    "adress": "Dhaka",
+    "photoUrl": "https://i.pinimg.com/originals/b1/75/1d/b1751d1f45c23038d57cf67b990c211f.jpg"
+  },
+  {
+    "id": 5,
+    "gender": "female",
+    "name": "farida",
+    "contact": "farida@gmail.com",
+    "adress": "Dhaka",
+    "photoUrl": "https://i.pinimg.com/236x/e3/70/08/e37008af8900b12e02f89847abd0de8a--random-pictures-the-day.jpg"
+  }
+]
